@@ -1,0 +1,20 @@
+{
+  "name": "pure-functions",
+  "version": "1.0.0",
+  "description": "Demos about functional programming",
+  "main": "pure-impure.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Telerik Academy",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "@types/immutable": "^3.8.7",
+    "@types/lodash": "^4.14.124"
+  }
+}
